@@ -35,7 +35,6 @@ A comprehensive web application for managing employee holidays, time-off request
 ### Prerequisites
 - Python 3.x
 - PostgreSQL
-- pip (Python package manager)
 
 ### Setup Instructions
 
@@ -137,25 +136,13 @@ Holidate/
 └── requirements.txt         # Python dependencies
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Development History
 
-Originally developed by Jason Lee in 2017 during a summer internship at Coinplug, Inc (South Korea). The application was designed to create an organized system for managing employee holidays and time-off requests in a corporate environment.
-
-## Support
-
-For support, please open an issue on GitHub or contact the development team.
+Originally developed by Jason Lee in 2017 during a summer internship at Coinplug. The application was designed to create an organized system for managing employee holidays and time-off requests in a corporate environment.
 
 ---
 
